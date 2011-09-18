@@ -41,7 +41,7 @@ _
   # I'm explicitly controlling the version of bones.
 
 
-  depend_on 'sinatra'    , '~> 1.2.6'
+  depend_on 'sinatra'
   depend_on 'addressable', '~> 2.2.4'
   depend_on 'excon'      , '~> 0.6.6'
   depend_on 'trollop'    , '~> 1.16.2'

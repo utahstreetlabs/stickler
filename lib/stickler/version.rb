@@ -12,7 +12,7 @@ module Stickler
 
     MAJOR = 2
     MINOR = 1
-    BUILD = 4
+    BUILD = '4.0.copious'
 
     def self.to_ary
       [ MAJOR, MINOR, BUILD ]
